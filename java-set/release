@@ -1,0 +1,6 @@
+JAVA_VERSION="1.8.0_371"
+OS_NAME="Linux"
+OS_VERSION="2.6"
+OS_ARCH="amd64"
+SOURCE=".:git:0ac1657d1cff+"
+BUILD_TYPE="commercial"
